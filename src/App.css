@@ -1,8 +1,5 @@
-body {
-  background-color: #6dd5ed;
-}
 .App {
-  background-color: #5d1049;
+  background-image: linear-gradient(to right, #3c1782, #ff69b4);
   min-height: 500px;
   width: 400px;
   margin: 200px auto;
